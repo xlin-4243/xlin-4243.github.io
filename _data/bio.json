@@ -1,0 +1,75 @@
+{
+   "basics":{
+      "name":"Xin Lin",
+      "label":"Student",
+      "picture":"https://github.com/xlin-4243.png",
+      "email":"xlin@hawaii.edu",
+      "phone":"",
+      "website":"https://xlin-4243.github.io/",
+      "summary":"I am studying in Finance and possibly double majoring in MIS as well. I expect to graduate in Spring, 2024. Although graduation date may vary if I decide to double major and/or master in Finance.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"xlin-4243",
+            "url":"http://github.com/xlin-4243"
+         },
+         {
+            "network":"instagram",
+            "username":"itx_xin",
+            "url":"http://instagram.com/itx_xin"
+         }
+      ]
+   },
+   "interests":[
+      {"name": "Gaming, Gym, Music, Cooking and/or Baking"}
+      ],
+   
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "keywords":[
+            "Java",
+            "HTML"
+         ]
+      
+      }
+      ],
+      "education": [
+         {
+            "institution":"University of Hawaii, Honolulu, HI",
+            "area":"Finance (expected Spring, 2024)",
+            "studyType":"B.S.",
+            "startDate":"2021-08-23",
+            "endDate":"Present"
+         }
+      ],
+      "work":[
+         {
+            "company":"UH Manoa Information and Computer Sciences Department",
+            "position":"Teacher Assistance",
+            "startDate":"2015-08-18",
+            "endDate":"Present",
+            "highlights":[
+               "Develop, plans, and implements engaging curriculum, lesson plans, and activity for students within the ICS101 lab class.",
+               "Advises, tests, and teaches students in the academic subject of ICS101. As well as grade materials submitted by students.",
+               "Presents and reinforces learning concepts and skills within ICS101.",
+               "Evaluating and documenting student’s progress, and prep for weekly staff meetings."
+            ]
+         }
+         ],
+            "references":[
+               {
+                  "name":"Available upon request"
+               }
+            ]
+         }
+
+
+
